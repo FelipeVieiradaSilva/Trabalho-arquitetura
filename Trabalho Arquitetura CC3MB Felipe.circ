@@ -539,7 +539,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp loc="(560,130)" name="SUB-1"/>
     <comp lib="0" loc="(110,140)" name="Pin">
       <a name="output" val="true"/>
-      <a name="label" val="Vai_1"/>
+      <a name="label" val="Overflow"/>
     </comp>
     <comp lib="0" loc="(60,40)" name="Pin">
       <a name="width" val="4"/>
